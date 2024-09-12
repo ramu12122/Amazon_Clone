@@ -32,8 +32,4 @@ Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to check the issues page.
 
-License
-
-This project is licensed under the MIT License.
-
 This version includes the necessary details with an additional section for future enhancements. Let me know if you need further modifications!
