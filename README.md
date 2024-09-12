@@ -17,7 +17,7 @@ How to Run the Project
 
 	1.	Clone the repository using the command below:
 
-git clone https://github.com/ramu12122/Amazon_Clonelone.git
+https://github.com/ramu12122/Amazon_Clone
 
 
 	2.	Open the index.html file in your preferred browser to view the site.
